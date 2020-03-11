@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 2%;
+}
+header h1 {
+  color: white;
+}
